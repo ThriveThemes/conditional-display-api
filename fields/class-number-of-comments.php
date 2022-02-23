@@ -7,10 +7,6 @@
 
 namespace Thrive\ConditionalDisplayDemo\Fields;
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit; // Silence is golden!
-}
-
 /**
  * Class Number_Of_Comments
  * Extends the general 'Field' class from Thrive Architect.

@@ -7,10 +7,6 @@
 
 namespace Thrive\ConditionalDisplayDemo\Fields;
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit; // Silence is golden!
-}
-
 /**
  * Class Title
  * Extends the general 'Field' class from Thrive Architect.

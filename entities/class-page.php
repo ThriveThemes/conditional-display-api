@@ -7,10 +7,6 @@
 
 namespace Thrive\ConditionalDisplayDemo\Entities;
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit; // Silence is golden!
-}
-
 /**
  * Class Page
  * Represents the 'Page' post type.
