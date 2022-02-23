@@ -2,7 +2,7 @@
 /*
 Plugin Name: Conditional Display API
 Plugin URI: http://www.thrivethemes.com
-Description: An example plugin demonstrating how you can extend the Thrive Architect Conditional Display feature in order to create custom conditional rules.
+Description: An example plugin demonstrating how to extend the Thrive Architect Conditional Display feature in order to create custom conditional rules.
 Author: Thrive Team
 Version: 0.01
 
