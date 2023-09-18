@@ -8,4 +8,4 @@ After activating the plugin, they will be available in the conditional display m
 
 ![image](https://user-images.githubusercontent.com/26145465/155287317-6266c41f-3312-4398-871b-9e74ae3f6ca3.png)
 
-Link to the knowledge base article: https://help.thrivethemes.com/en/articles/5927389-how-to-develop-custom-rules-for-the-conditional-display-option
+Link to the knowledge base article: https://developer.thrivethemes.com/how-to-develop-custom-rules-for-the-conditional-display-option
